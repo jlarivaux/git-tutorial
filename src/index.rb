@@ -1,2 +1,2 @@
 print "config.rb"
-print "version 2"
+print "version 3"
